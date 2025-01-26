@@ -15,7 +15,7 @@ KEHC data is stored in the Office for National Statistics (ONS) Secure Research 
 ## Contributing
 
 🌐 We encourage all KEHC users to contribute at least the final analysis code they’ve used to work with the cohort data. To contribute: 
-- **Make your code publicly available**: Upload your code to a publicly accessible repository on GitHub, under your personal or your organization’s account.
+- **Make your code publicly available**: Upload your code to a publicly accessible repository on GitHub, under your personal or your organisation’s account.
 - **Explain your project**: Include clear documentation about your project alongside the code. This is best done in the form of a README file. 
 - **Follow best practices**: We recommend reviewing the ONS’s Quality Assurance of Code for Analysis and Research guidelines to ensure your code meets quality standards.
 - **Include a license**: Add a [license to your repository](https://choosealicense.com/) that permits the redistribution of your code. Examples include the MIT License or the Apache License 2.0.
