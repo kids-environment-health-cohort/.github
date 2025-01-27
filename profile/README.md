@@ -14,7 +14,7 @@ KEHC data is stored in the Office for National Statistics (ONS) Secure Research 
 
 ## Contributing
 
-🌐 We encourage all KEHC users to contribute at least the final analysis code they’ve used to work with the cohort data. To contribute: 
+🌐 We encourage all KEHC users to contribute at least the final analysis code used with KEHC to our [analysis code repository](https://github.com/kids-environment-health-cohort/Analysis_code). To contribute: 
 - **Make your code publicly available**: Upload your code to a publicly accessible repository on GitHub, under your personal or your organisation’s account.
 - **Explain your project**: Include clear documentation about your project alongside the code. This is best done in the form of a README file. 
 - **Follow best practices**: We recommend reviewing the ONS’s Quality Assurance of Code for Analysis and Research guidelines to ensure your code meets quality standards.
